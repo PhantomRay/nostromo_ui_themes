@@ -45,7 +45,7 @@
 
     // Side bar
     "sideBar.background": "#141D22",
-    "sideBar.foreground": "#3a4c4e",
+    "sideBar.foreground": "#365878",
     "sideBar.border": "#ff000000",
     "sideBarTitle.foreground": "#365878",
     "list.hoverBackground": "#A5FBFF11",
@@ -89,7 +89,9 @@
     "statusBar.foreground": "#8fd8db",
 
     "badge.foreground": "#81bad9",
-    "badge.background": "#283137"
+    "badge.background": "#283137",
+
+    "gitDecoration.ignoredResourceForeground": "#3a4c4e" // Change this color as needed
   },
 
   "semanticTokenColors": {
@@ -120,7 +122,7 @@
     {
       "scope": "comment",
       "settings": {
-        "foreground": "#3a4c4e"
+        "foreground": "#43595b"
       }
     },
     {
