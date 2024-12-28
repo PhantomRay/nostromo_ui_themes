@@ -31,10 +31,11 @@
     // Title bar
     "titleBar.activeBackground": "#141D22",
     "titleBar.inactiveBackground": "#141D22",
-    "titleBar.activeForeground": "#b4d4d6",
+    "titleBar.activeForeground": "#92dde1",
 
     "window.activeBorder": "#A5FBFF11",
     "window.inactiveBorder": "#A5FBFF00",
+
     // Activity bar
     "activityBar.background": "#141D22",
     "activityBar.border": "#A5FBFF00",
@@ -50,6 +51,7 @@
     "sideBarTitle.foreground": "#365878",
     "list.hoverBackground": "#A5FBFF11",
     "list.activeSelectionBackground": "#cdf1f311",
+    "list.activeSelectionForeground": "#A5FBFF",
     "list.inactiveSelectionBackground": "#759a9c11",
     "list.inactiveSelectionForeground": "#91b0b1",
 
