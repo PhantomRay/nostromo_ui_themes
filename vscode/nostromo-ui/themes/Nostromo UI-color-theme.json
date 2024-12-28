@@ -42,7 +42,7 @@
     "activityBar.activeBorder": "#A5FBFF",
     "activityBar.foreground": "#A5FBFF",
     "activityBarBadge.background": "#141D22",
-    "activityBarBadge.foreground": "#A5FBFF",
+    "activityBarBadge.foreground": "#dd513c",
 
     // Side bar
     "sideBar.background": "#141D22",
@@ -94,7 +94,7 @@
     "statusBar.debuggingBackground": "#141D22",
     "statusBar.foreground": "#8fd8db",
 
-    "badge.foreground": "#81bad9",
+    "badge.foreground": "#dd513c",
     "badge.background": "#283137",
 
     "gitDecoration.ignoredResourceForeground": "#3a4c4e"
