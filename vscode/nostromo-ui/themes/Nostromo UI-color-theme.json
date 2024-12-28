@@ -46,7 +46,7 @@
     // Side bar
     "sideBar.background": "#141D22",
     "sideBar.foreground": "#365878",
-    "sideBar.border": "#ff000000",
+    "sideBar.border": "#A5FBFF22",
     "sideBarTitle.foreground": "#365878",
     "list.hoverBackground": "#A5FBFF11",
     "list.activeSelectionBackground": "#cdf1f311",
@@ -81,7 +81,8 @@
     "panel.background": "#141D22",
     "panelTitle.activeBorder": "#154547",
     "panelTitle.activeForeground": "#9fe1e3",
-    "terminal.foreground": "#34A2DF",
+
+    "terminal.foreground": "#6ba3a5",
 
     "statusBar.background": "#141D22",
     "statusBar.noFolderBackground": "#141D22",
