@@ -46,9 +46,10 @@
 
     // Side bar
     "sideBar.background": "#141D22",
-    "sideBar.foreground": "#365878",
+    "sideBar.foreground": "#6ba3a5",
     "sideBar.border": "#A5FBFF22",
     "sideBarTitle.foreground": "#365878",
+
     "list.hoverBackground": "#A5FBFF11",
     "list.activeSelectionBackground": "#cdf1f311",
     "list.activeSelectionForeground": "#A5FBFF",
@@ -73,6 +74,8 @@
 
     "input.background": "#141D22",
     "input.foreground": "#E1FFE5",
+    "input.border": "#A5FBFF22",
+    "input.placeholderForeground": "#365878",
 
     // Scroll
     "scrollbarSlider.background": "#34a3df1d",
@@ -94,7 +97,7 @@
     "badge.foreground": "#81bad9",
     "badge.background": "#283137",
 
-    "gitDecoration.ignoredResourceForeground": "#3a4c4e" // Change this color as needed
+    "gitDecoration.ignoredResourceForeground": "#3a4c4e"
   },
 
   "semanticTokenColors": {
