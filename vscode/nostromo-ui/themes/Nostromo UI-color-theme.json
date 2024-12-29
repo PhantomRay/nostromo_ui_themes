@@ -23,10 +23,10 @@
 
     // Editor tabs
     "editorGroupHeader.tabsBackground": "#141D22",
-    "tab.activeBackground": "#161f25",
+    "tab.activeBackground": "#A5FBFF22",
     "tab.activeForeground": "#A5FBFF",
+    "tab.activeBorder": "#A5FBFF",
     "tab.inactiveBackground": "#141d22",
-    "tab.activeBorder": "#154547",
 
     // Title bar
     "titleBar.activeBackground": "#141D22",
