@@ -97,7 +97,8 @@
     "badge.foreground": "#dd513c",
     "badge.background": "#283137",
 
-    "gitDecoration.ignoredResourceForeground": "#3a4c4e"
+    "gitDecoration.ignoredResourceForeground": "#3a4c4e",
+    "diffEditor.insertedTextBackground": "#3df2ad37"
   },
 
   "semanticTokenColors": {
@@ -128,7 +129,7 @@
     {
       "scope": "comment",
       "settings": {
-        "foreground": "#43595b"
+        "foreground": "#618284"
       }
     },
     {
