@@ -19,7 +19,8 @@
     "editor.lineHighlightBackground": "#1a262d00",
     "editor.lineHighlightBorder": "#A5FBFF22",
 
-    "editorWarning.foreground": "#FFFF8444",
+    "editorWarning.foreground": "#FFFF8470",
+    "editorError.foreground": "#dd513c90",
 
     // Editor tabs
     "editorGroupHeader.tabsBackground": "#141D22",
@@ -86,6 +87,7 @@
     "panel.background": "#141D22",
     "panelTitle.activeBorder": "#154547",
     "panelTitle.activeForeground": "#9fe1e3",
+    // "panelTitle.inactiveForeground": "#ff0000",
 
     "terminal.foreground": "#6ba3a5",
 
