@@ -119,7 +119,7 @@
 
     "string": "#3f9bbc",
 
-    "number": "#4DDCFF",
+    "number": "#eb78c3",
     "type": "#4DDCFF",
     "class": "#4DDCFF",
     "enum": "#4DDCFF",
@@ -176,54 +176,42 @@
         "foreground": "#4DDCFF"
       }
     },
+    {
+      "scope": "constant.numeric",
+      "settings": {
+        "foreground": "#eb78c3"
+      }
+    },
+    {
+      "scope": "constant.language.boolean",
+      "settings": {
+        "foreground": "#ffb78a"
+      }
+    },
     // json
     {
       "scope": "support.type.property-name.json",
       "settings": {
-        "foreground": "#A5FBFF" // Change this color as needed for JSON keys
+        "foreground": "#3df2ad"
       }
     },
     {
       "scope": "string.quoted.double.json",
       "settings": {
-        "foreground": "#3f9bbc" // Change this color as needed for JSON values
+        "foreground": "#3f9bbc"
       }
     },
     // yaml
     {
       "scope": "entity.name.tag.yaml",
       "settings": {
-        "foreground": "#A5FBFF" // Change this color as needed for YAML keys
+        "foreground": "#3df2ad"
       }
     },
     {
       "scope": "string.unquoted.plain.out.yaml",
       "settings": {
-        "foreground": "#4DDCFF" // Change this color as needed for YAML strings
-      }
-    },
-    {
-      "scope": "string.quoted.double.yaml",
-      "settings": {
-        "foreground": "#3f9bbc" // Change this color as needed for YAML strings
-      }
-    },
-    {
-      "scope": "string.quoted.single.yaml",
-      "settings": {
-        "foreground": "#3f9bbc" // Change this color as needed for YAML strings
-      }
-    },
-    {
-      "scope": "constant.language.boolean.yaml",
-      "settings": {
-        "foreground": "#ffb78a" // Change this color as needed for YAML booleans
-      }
-    },
-    {
-      "scope": "constant.numeric.yaml",
-      "settings": {
-        "foreground": "#4DDCFF" // Change this color as needed for YAML numbers
+        "foreground": "#4DDCFF"
       }
     }
   ]
